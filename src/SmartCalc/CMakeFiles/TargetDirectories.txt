@@ -1,0 +1,4 @@
+/Users/bankblac/C7_SmartCalc_v1.0-2/src/SmartCalc/CMakeFiles/SmartCalc.dir
+/Users/bankblac/C7_SmartCalc_v1.0-2/src/SmartCalc/CMakeFiles/edit_cache.dir
+/Users/bankblac/C7_SmartCalc_v1.0-2/src/SmartCalc/CMakeFiles/rebuild_cache.dir
+/Users/bankblac/C7_SmartCalc_v1.0-2/src/SmartCalc/CMakeFiles/SmartCalc_autogen.dir
