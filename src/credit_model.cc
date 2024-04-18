@@ -7,10 +7,6 @@ void CreditModel::CalcCreditOutput(CreditInputData *input_data, CreditOutputData
     const int months = input_data->GetCredMonths();
     const int type = input_data->GetType();
 
-// перенести в прайват
-    // double monthly_payment {0};
-    // double overpayment {0};
-    // double total_payment {0};
 
 std::cout << amaunt << std::endl;
 std::cout << int_rate << std::endl;
@@ -24,10 +20,8 @@ std::cout << "diff" << std::endl;
     } else {
 std::cout << "ann" << std::endl;
 
-    // Думаем тут!!
     // перетащить формулу
     // дописываем тут!
-
 
     };
 
