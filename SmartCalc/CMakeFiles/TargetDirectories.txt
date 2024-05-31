@@ -1,4 +1,0 @@
-/Users/bankblac/Proj/CPP3_SmartCalc_v2.0-1/src/SmartCalc/CMakeFiles/SmartCalc.dir
-/Users/bankblac/Proj/CPP3_SmartCalc_v2.0-1/src/SmartCalc/CMakeFiles/edit_cache.dir
-/Users/bankblac/Proj/CPP3_SmartCalc_v2.0-1/src/SmartCalc/CMakeFiles/rebuild_cache.dir
-/Users/bankblac/Proj/CPP3_SmartCalc_v2.0-1/src/SmartCalc/CMakeFiles/SmartCalc_autogen.dir
